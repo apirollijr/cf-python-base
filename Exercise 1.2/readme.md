@@ -1,0 +1,1 @@
+For each recipe, I used a dictionary because it represents structured data as key–value pairs: name, cooking time, and ingredients are easy to access and extend. For all recipes, I chose a list, since it is an ordered, sequential container that lets me append new recipes, iterate over them, and modify or remove entries as needed while keeping their insertion order.
